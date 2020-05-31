@@ -8,7 +8,6 @@
 *.o
 *.obj
 
-
 # Precompiled Headers
 *.gchs
 *.pch
