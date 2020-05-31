@@ -8,6 +8,7 @@
 *.o
 *.obj
 
+
 # Precompiled Headers
 *.gchs
 *.pch
@@ -45,6 +46,9 @@
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
+
+# EXE BUILDS
+EXE/*
 
 # Binary Files
 Binaries/*
